@@ -69,9 +69,15 @@ Additionally, most sellers have average scores between 4-4.5 out of 5 stars, sug
 
 ![WhatsApp Image 2023-09-27 at 3 52 27 PM (1)](https://github.com/DerrickLAM94/Olist-analysis/assets/140989898/becb36f6-3c11-4e25-af33-62c9fe55cc0d)
 
+In the product analysis, an important insight is how many products are purchased per order. We can see that only 3237 orders included more than one product, out of a total of 99441 orders. This means only 3% of orders contained multiple products.
+This is an issue Olist should pay attention to. They likely need to focus on cross-selling and upselling to increase the number of products per order.
+The most popular product price range is under $100, with over 70,000 orders in this range. Having low price points can be an advantage, but having over 70% of orders be low priced could hurt Olist's Average Order Value (AOV). Olist should keep an eye on AOV numbers.
+
 -
 
 ![WhatsApp Image 2023-09-27 at 3 52 26 PM (2)](https://github.com/DerrickLAM94/Olist-analysis/assets/140989898/dc78dfcf-9274-4601-8cb6-7f69ba3beede)
+
+
 
 -
 
