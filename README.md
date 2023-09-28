@@ -61,6 +61,10 @@ The dashboard shows that Olist generated total revenue of 16 million dollars fro
 
 ![WhatsApp Image 2023-09-27 at 3 52 27 PM](https://github.com/DerrickLAM94/Olist-analysis/assets/140989898/c201647b-0f79-489e-95f7-be15d3720453)
 
+In the chart above, we can see Olist has a total of 2,354 active sellers. I broke this down into sellers active for 3 months (1,508 sellers) and 6 months (791 sellers). This shows that a substantial number of sellers are continuously active on Olist for extended periods. The number of active sellers also increased steadily in 2016, indicating Olist is becoming a platform where sellers want to grow their businesses.
+
+Additionally, most sellers have average scores between 4-4.5 out of 5 stars, suggesting generally good performance. However, Olist should watch out for the few sellers scoring just 1-2 stars, as poor seller performance can greatly impact the attractiveness and competitiveness of the platform.
+
 -
 
 ![WhatsApp Image 2023-09-27 at 3 52 27 PM (1)](https://github.com/DerrickLAM94/Olist-analysis/assets/140989898/becb36f6-3c11-4e25-af33-62c9fe55cc0d)
