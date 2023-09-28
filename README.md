@@ -44,10 +44,37 @@ The analysis covers:
 
 Based on the analysis, the final presentations provides data-driven recommendations to Olist on:
 
-- Improving customer retention 
+- Improving customer retention
 - Optimize product portfolio and pricing
 - Seller performance evaluation
 - Supply chain and logistics optimization
 - Expansion opportunities in specific regions
 
 The final report, notebooks and presentation provide a comprehensive data study to derive actionable insights for Olist's business.
+
+
+![WhatsApp Image 2023-09-27 at 3 52 26 PM](https://github.com/DerrickLAM94/Olist-analysis/assets/140989898/caf00f0c-5eea-414a-bfdf-ff2ea0f53e3d)
+
+-
+
+![WhatsApp Image 2023-09-27 at 3 52 27 PM](https://github.com/DerrickLAM94/Olist-analysis/assets/140989898/c201647b-0f79-489e-95f7-be15d3720453)
+
+-
+
+![WhatsApp Image 2023-09-27 at 3 52 27 PM (1)](https://github.com/DerrickLAM94/Olist-analysis/assets/140989898/becb36f6-3c11-4e25-af33-62c9fe55cc0d)
+
+-
+
+![WhatsApp Image 2023-09-27 at 3 52 26 PM (2)](https://github.com/DerrickLAM94/Olist-analysis/assets/140989898/dc78dfcf-9274-4601-8cb6-7f69ba3beede)
+
+-
+
+![WhatsApp Image 2023-09-27 at 3 52 26 PM (1)](https://github.com/DerrickLAM94/Olist-analysis/assets/140989898/efb121a1-cd70-4ef6-8ab1-d85a23e668ed)
+
+-
+
+![WhatsApp Image 2023-09-27 at 3 52 25 PM](https://github.com/DerrickLAM94/Olist-analysis/assets/140989898/98e43d44-5693-43ba-82f9-22ad32ef8af7)
+
+-
+
+
