@@ -55,6 +55,8 @@ The final report, notebooks and presentation provide a comprehensive data study 
 
 ![WhatsApp Image 2023-09-27 at 3 52 26 PM](https://github.com/DerrickLAM94/Olist-analysis/assets/140989898/caf00f0c-5eea-414a-bfdf-ff2ea0f53e3d)
 
+The dashboard shows that Olist generated total revenue of 16 million dollars from 2016 to 2018 over a 3 year period. We can see that November 2017 had the highest monthly revenue, likely due to Black Friday sales events. However, while Olist has acquired almost 96,000 total customers, only 2,979 of these are repeat customers. This means the number of repeat buyers is very small compared to new customers. Specifically, the total customers metric is 96096, but the repeat customers metric is only 2979. This suggests that while Olist has succeeded in acquiring lots of new customers, most are only making a one-time purchase. Olist appears to be struggling to convert these new customers into repeat buyers. The large difference between total and repeat customers indicates Olist may need to focus more on getting existing customers to purchase again.
+
 -
 
 ![WhatsApp Image 2023-09-27 at 3 52 27 PM](https://github.com/DerrickLAM94/Olist-analysis/assets/140989898/c201647b-0f79-489e-95f7-be15d3720453)
